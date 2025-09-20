@@ -1,0 +1,4 @@
+pip install PySide6
+pip install pycryptodome  # For crypto functions
+pip install stegano       # For steganography
+pip install qrcode[pil]   # For QR code generation and decoding
